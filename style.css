@@ -559,40 +559,40 @@ h3{
     width: 100%;
 }
 
-/*---------- Blog Page -------------*/
+/*---------- Cooperation -------------*/
 
-.blog-content{
+.Cooperation-content{
     width: 80%;
     margin: auto;
     padding: 60px 0;
 }
-.blog-left{
+.Cooperation-left{
     flex-basis: 65%;
 }
-.blog-right{
+.Cooperation-right{
     flex-basis: 32%;
 }
-.blog-left img{
+.Cooperation-left img{
     width: 100%;
 }
-.blog-left h2{
+.Cooperation-left h2{
     color: #222;
     font-weight: 600;
     margin: 30px 0;
 }
-.blog-left p{
+.Cooperation-left p{
     color: #999;
     padding: 0;
 }
 
-.blog-right h3{
+.Cooperation-right h3{
     background: #f44336;
     color: #fff;
     padding: 7px 0;
     font-size: 16px;
     margin-bottom: 20px;
 }
-.blog-right div{
+.Cooperation-right div{
     display: flex;
     align-items: center;
     justify-content: space-between;
